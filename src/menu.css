@@ -1,0 +1,59 @@
+.menu{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+nav{
+    background-color: #ffffff;
+}
+.menucontainer{
+    
+    height: 100%;
+}
+.addmenu{
+    float: right;
+    padding-right: 10px;
+    background-color: #D3D3D3;
+}
+.menuinput{
+    border:none;
+    outline: none;
+    background-color: #D3D3D3;
+    padding-top: 10px;
+    padding-left: 12px;
+    padding-bottom: 10px;
+}
+.faplus{
+    color: red;
+    margin-left: 200px;
+}
+.faexpand{
+    margin-left: 20px;
+}
+.faarrowleft{
+    margin-left: 20px;
+}
+
+ul{
+    width: auto;
+    float: left;
+    margin-top: 8px;
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align: center;
+    color: #777;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+}
+a:hover{
+    border-bottom: 2px solid red;
+    transition: 0.2s;
+}
+#all{
+    border-bottom: 2px solid red;
+}
