@@ -3,16 +3,30 @@
     height: 100%;
     float: left;
 }
+.eachrow{
+    width: 100%;
+    margin-left: 20px;
+}
+.container{
+    margin-left: 30px;
+}
 nav{
     background-color: #ffffff;
 }
 .menucontainer{
-    
     height: 100%;
 }
+.menulist{
+    margin-left: 60px;
+    background-color: #D3D3D3;
+    margin-top: 125px;
+    padding: 6px;
+    height: 500px;
+}
+
 .addmenu{
     float: right;
-    padding-right: 10px;
+    padding: 6px;
     background-color: #D3D3D3;
 }
 .menuinput{
@@ -27,13 +41,17 @@ nav{
     color: red;
     margin-left: 200px;
 }
+.faplus2{
+    color: red;
+}
+
+
 .faexpand{
     margin-left: 20px;
 }
 .faarrowleft{
     margin-left: 20px;
 }
-
 ul{
     width: auto;
     float: left;
