@@ -7,6 +7,18 @@
     margin-left: 20px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.sidemenu2{
+    border: 1px solid #D3D3D3;
+    border-radius: 5px;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    float: right;
+    font-family:monospace;
+}
+.toggle{
+    float: right;
+}
 .box{
     margin-left: 80px;
     background-color: white;
@@ -30,7 +42,6 @@
     margin-left: 10px;
     font-size: 1.5rem;
 }
-
 .search{
     height: 25px;
     border-radius: 30px;
